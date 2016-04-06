@@ -1,5 +1,7 @@
 # Xcode Plugin Management scripts
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Some quick scripts to backup/disable, re-enable, or list all your Xcode plugins. Particularly useful when switching between stable and beta releases.
 
 ## Configuration
